@@ -36,7 +36,7 @@ Laravel5.8 | Codeigniter | Slim | ZendFramework | Vue.js
 
 ### その他
 
-MySQL | PostgreSQL | GCE | GCA | CloudFunctions | GCS | S3 | DynamoDB | BackLog | Git | GitLab | GitLabCI | Jenkins | Docker | nginx
+MySQL | PostgreSQL | GCE | GCA | CloudFunctions | GCS | S3 | DynamoDB | Redis | BackLog | Git | GitLab | GitLabCI | Jenkins | Docker | nginx
 
 ## 得意なこと
 
@@ -45,6 +45,50 @@ MySQL | PostgreSQL | GCE | GCA | CloudFunctions | GCS | S3 | DynamoDB | BackLog 
 * ビジネスサイドとの要件定義
 
 ## 業務経歴(新しいもの順)
+
+### pay系アプリ×会計アプリのLINE Bot作成　２０１９/9~
+
+#### <u> 概要 </u>
+
+会計APPに計上されているpay系APPにおける支払いをLINE上で確認できるBotを作成中。
+期間指定による売上情報や支払い情報などを会計APPのAPIを通して取得。データ構造が売上ごとで膨大な長さのJSONなため、
+効率よくソートできるようにCarbon等を使用。
+
+#### <u> 職務範囲 </u>
+
+* 設計
+* バックエンドの実装(PHP/Laravel)
+* 手動テスト
+* ユニットテスト
+
+#### <u> 発揮した強み </u>
+
+* 共通処理になる部分が多いのでカプセル化、継承をうまく使い可読性、可用性の高いソースを実現。
+* 趣味の競技プログラミングにて慣れた効率的なソートを実装。
+* 自由に開発できた分、Laravelの便利な機能を用いた省エネ開発を実現。
+
+### 電機メーカー写真プリント受付Bot作成　２０１９/6~9
+
+#### <u> 概要 </u>
+
+某電機メーカーの写真プリント受付Botを作成。
+ストーリーが長く、分岐が激しいアプリだった。
+また、枚数によって金額が代わり写真受付もある分間２００リクエストのBot。
+
+#### <u> 職務範囲 </u>
+
+* 設計
+* バックエンドの実装(PHP/Slim)
+* 手動テスト
+* LIFFの作成
+
+#### <u> 発揮した強み </u>
+
+* Redisをうまく活用し、誤タップ(ダブルタップ)等によるズレを確実に排除を実現。
+* ストーリーが長い分再利用性の高くなるような設計。
+
+
+
 
 ### 社内管理ツールの開発 2018/6 ~ 2019/3
 #### <u> 概要 </u>
