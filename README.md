@@ -4,38 +4,47 @@
 | key            | value                                     |
 |----------------|-------------------------------------------|
 | 名前           | 高橋 一貴                                 |
-| エンジニア歴   | 1年                                       |
+| エンジニア歴   | 2018/4~                                       |
 | GitHub         | [https://github.com/kazuki5555](https://github.com/kazuki5555)             |
 | Qiita          | [https://qiita.com/kazuki5555](https://qiita.com/kazuki5555)              |
-| Twitter        | @kzkzkzk55                                |
+| Twitter        | @cuzkop                                |
 | ポートフォリオ | [https://kazuki5555.github.io/Portfolio/#/](https://kazuki5555.github.io/Portfolio/) |
 
 ## 会社経歴
 
 * 2018/4 株式会社セプテーニ・クロスゲート入社
+* 2019/4 株式会社トライコーン常駐
+* 2019/4 株式会社ミロゴス出向
 
 ## 概要
 
 * 基本的にはバックエンドエンジニアとして活動しています。
 * 弊社プロダクトのxmaxの改修、社内管理ツールの開発等を行なっています。
 * 小規模組織のため、フロントエンドやインフラ周りを触ることも日常茶飯事です。
+* ２０１９年4月以降は主にLINE Botの開発業務に従事しております。
 
 ## スキル
 * 業務経歴のあるもののみ列挙します。
 
 ### 言語
 
-PHP | JavaScript | Go
+PHP7.x | JavaScript | Go1.12
 
 ### FW
 
-Laravel | ZendFramework | Vue.js
+Laravel5.8 | Codeigniter | Slim | ZendFramework | Vue.js
 
 ### その他
 
-MySQL | GCE | GCA | CloudFunctions | BackLog | Git | Jenkins | Docker | nginx
+MySQL | PostgreSQL | GCE | GCA | CloudFunctions | GCS | S3 | DynamoDB | BackLog | Git | GitLab | GitLabCI | Jenkins | Docker | nginx
 
-## 業務経歴
+## 得意なこと
+
+* Laravelを使った開発
+* 保守性、柔軟性の高い設計
+* ビジネスサイドとの要件定義
+
+## 業務経歴(新しいもの順)
 
 ### 社内管理ツールの開発 2018/6 ~ 2019/3
 #### <u> 概要 </u>
