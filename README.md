@@ -34,9 +34,23 @@ PHP7.x | JavaScript | Go1.12
 
 Laravel5.8 | Codeigniter | Slim | ZendFramework | Vue.js
 
+### DB
+
+MySQL | PostgreSQL | Redis
+
+### Cloud Services
+
+#### AWS
+
+EC2 | S3 | DynamoDB | RDS | ElastiCache
+
+#### GCP
+
+GCE | GAE | CloudFunctions | GCS |
+
 ### その他
 
-MySQL | PostgreSQL | GCE | GCA | CloudFunctions | GCS | S3 | DynamoDB | Redis | BackLog | Git | GitLab | GitLabCI | Jenkins | Docker | nginx
+BackLog | GitHub | GitLab | GitLabCI | Jenkins | Docker | nginx | Ansible
 
 ## 得意なこと
 
